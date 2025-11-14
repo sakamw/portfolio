@@ -1,7 +1,7 @@
 const ContactSection = () => {
   const handleChatClick = () => {
     alert(
-      "Chat feature coming soon! For now, you can reach me at shanmwangi2020@gmail.com"
+      "Chat feature coming soon! For now, you can reach me at shanmwangi2020@gmail.com",
     );
   };
 

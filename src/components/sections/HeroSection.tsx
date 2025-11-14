@@ -13,7 +13,7 @@ const HeroSection = () => {
         <h1>Hi, I'm Isaac</h1>
         <p>
           A passionate full-stack developer crafting beautiful, performant web
-          experiences. I specialize in React, TypeScript, Pyhton Django, and
+          experiences. I specialize in React, TypeScript, Python Django, and
           modern web technologies. Let's build something amazing together.
         </p>
         <div
