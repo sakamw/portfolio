@@ -2,26 +2,26 @@ const ExperienceSection = () => {
   const experiences = [
     {
       id: 1,
+      title: "eMobilis Training Program",
+      company: "eMobilis",
+      period: "October 2025 - Active",
+      description:
+        "Training in mobile and web development, focusing on practical skills and real-world projects, working with Bootstrap, Python, and Django.",
+      highlights: [
+        "Full Stack",
+        "Project Management",
+        "Problem Solving",
+        "Innovation",
+      ],
+    },
+    {
+      id: 2,
       title: "Full Stack Developer",
       company: "StartupHub",
       period: "2024 - present",
       description:
         "Developed and maintained full-stack web applications from concept to production.",
       highlights: ["MERN Stack", "Python", "PostgreSQL", "DevOps"],
-    },
-    {
-      id: 2,
-      title: "eMobilis Training Program",
-      company: "eMobilis",
-      period: "2023 - Present",
-      description:
-        "Developing custom web solutions for startups and established businesses.",
-      highlights: [
-        "Full Stack",
-        "Client Management",
-        "Problem Solving",
-        "Innovation",
-      ],
     },
     {
       id: 3,
