@@ -73,12 +73,12 @@ portfolio/
 │   │   ├── Header.tsx              # Navigation header
 │   │   ├── Footer.tsx              # Footer with links
 │   │   ├── ui/
-│   │   │   └── Footer.tsx          # Footer component
-|   |   |   └──Header.tsx           # Header component
+│   │   │   └── Button.tsx          # Reusable button component
 │   │   └── sections/
 │   │       ├── HeroSection.tsx      # Main hero with CTA
 │   │       ├── ProjectsSection.tsx  # Featured projects grid
 │   │       ├── SkillsSection.tsx    # Skills and expertise
+            ├── LanguagesSection.tsx    # Languages and tools
 │   │       ├── AboutSection.tsx     # About me and stats
 │   │       ├── ExperienceSection.tsx # Work experience timeline
 │   │       └── ContactSection.tsx   # Contact info and social links

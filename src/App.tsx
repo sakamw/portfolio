@@ -2,6 +2,7 @@ import Header from "./components/Header";
 import HeroSection from "./components/sections/HeroSection";
 import ProjectsSection from "./components/sections/ProjectsSection";
 import SkillsSection from "./components/sections/SkillsSection";
+import LanguagesSection from "./components/sections/LanguagesSection";
 import AboutSection from "./components/sections/AboutSection";
 import ExperienceSection from "./components/sections/ExperienceSection";
 import ContactSection from "./components/sections/ContactSection";
@@ -15,6 +16,7 @@ const App = () => {
         <HeroSection />
         <ProjectsSection />
         <SkillsSection />
+        <LanguagesSection />
         <ExperienceSection />
         <AboutSection />
         <ContactSection />

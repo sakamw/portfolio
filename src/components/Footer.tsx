@@ -9,10 +9,7 @@ const Footer = () => {
         <a href="#about">About</a>
         <a href="#contact">Contact</a>
       </div>
-      <p>
-        © {currentYear} Saka. All rights reserved. Built with React + Tailwind
-        + Sass.
-      </p>
+      <p>© {currentYear} Saka. All rights reserved.</p>
     </footer>
   );
 };
