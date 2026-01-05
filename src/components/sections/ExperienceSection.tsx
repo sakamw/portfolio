@@ -4,7 +4,7 @@ const ExperienceSection = () => {
       id: 1,
       title: "eMobilis Training Program",
       company: "eMobilis",
-      period: "October 2025 - Active",
+      period: "October 2025 - December 2025",
       description:
         "Training in mobile and web development, focusing on practical skills and real-world projects, working with Bootstrap, Python, and Django.",
       highlights: [
